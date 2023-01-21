@@ -1,0 +1,16 @@
+body{
+    text-transform: capitalize;
+}
+
+@media screen and (max-width:578px) {
+    .stert , .momin{
+        flex-direction: column-reverse;
+    }
+   .mm img{
+    width: 100%;
+   }
+
+}
+ul li{
+    list-style: none;
+}
